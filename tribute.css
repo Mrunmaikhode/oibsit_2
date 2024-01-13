@@ -1,0 +1,70 @@
+.middle {
+    background-color:#fff;
+    padding: 100px;
+    margin-bottom: 10px;
+    border-radius: 0px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width:28%;
+    height: 70px;
+    position: absolute;
+    left:430px;
+    top:170px;
+
+}
+header {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin:0;
+    line-height: 2px;
+}
+h3 {
+    color: #fff;
+    position: absolute;
+    top: 430px;
+    left:700px;
+    
+}
+.pass {
+    background-color:rgb(6, 9, 1);
+    padding: 100px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width:19%;
+    height: 30px;
+    position: absolute;
+    left:510px;
+    top:470px;
+}
+.pass p{
+    text-align:justify;
+    position: absolute;
+    top:30px;
+    right:5px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    color: #fff;
+    line-height: 1.2;
+}
+hr{
+    border-bottom: 1px solid white;
+    position: absolute;
+    top: 210px;
+    width: 75%;
+    left: 70px;
+}
+.middle img {
+    position: absolute;
+    left:370px;
+    bottom: 0px;
+}
+i {
+    
+    position: absolute;
+    left:430px;
+    height: 50px;
+    width: 50px;
+    
+}
